@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive team calendar
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
@@ -28,3 +29,6 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+=======
+# Calendar-Teams-Demo
+>>>>>>> acc06a8aaa792f61f1daeb4e29c0b4669c3f6377
